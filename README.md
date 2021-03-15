@@ -1,2 +1,3 @@
-# qihuju.github.io
-Qihuju wiki
+# 奇忽局 Wiki
+
+奇忽局 wiki 
