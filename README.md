@@ -2,7 +2,9 @@
 
 ## 联系方式
 
-奇忽局0局電報群：qihu0 [点击进入](https://t.me/qihu0)
+Clubhouse：奇忽局Club [点击进入](https://www.joinclubhouse.com/club/%E5%A5%87%E5%BF%BD%E5%B1%80Club)
+
+奇忽局0局電報群：奇忽局0局 [点击进入](https://t.me/qihu0)
 
 奇忽局微信群：透過岳路平微信號（lupingyue，請說明來意）加入「奇忽局」微信群
 
