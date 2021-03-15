@@ -1,2 +1,2 @@
 # qihuju.github.io
-Qihuju Wiki
+Qihuju wiki
