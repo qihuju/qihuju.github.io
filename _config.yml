@@ -1,13 +1,4 @@
-# --- Required options --- #
-
-# Name of website
 title: <a href="https://qihuju.wiki">奇忽局</a>
-
-# Description of website
-description: 奇忽·科幻·遊戲·藝術·區塊鏈 <a href="https://qihuju.wiki">qihuju.wiki</a>
-
-# Logo
 logo: /assets/img/logo.png
-
-# Jekyll theme
+description: 奇忽·科幻·遊戲·藝術·區塊鏈 <a href="https://qihuju.wiki">qihuju.wiki</a>
 theme: jekyll-theme-minimal
