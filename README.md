@@ -1,21 +1,17 @@
 # 奇忽局索引
 
 - [奇忽局索引](#奇忽局索引)
-    - [📆 近期动向](#-近期动向)
-      - [【奇忽局9】《美國眾神 vs 中國眾仙》1](#奇忽局9美國眾神-vs-中國眾仙1)
-      - [【奇忽局10】「平台合作社」解放平台打工人和快遞小哥？「🎤 錄音房」](#奇忽局10平台合作社解放平台打工人和快遞小哥-錄音房)
-      - [【奇忽局之「賽博鄉村」2】談談Fab lab在中國，創客運動與鄉村振興，一村一個Fab lab不是夢？「🎤 錄音房」](#奇忽局之賽博鄉村2談談fab-lab在中國創客運動與鄉村振興一村一個fab-lab不是夢-錄音房)
-      - [【奇忽局11】《美國眾神 vs 中國眾仙》2](#奇忽局11美國眾神-vs-中國眾仙2)
+    - [📆 活动预告](#-活动预告)
     - [📓 联系方式](#-联系方式)
     - [🎓 腦圖呈現](#-腦圖呈現)
-    - [🎤 錄音房聲明](#-錄音房聲明)
+    - [🎤 錄音聲明](#-錄音聲明)
     - [📝 往期记录](#-往期记录)
 
-### 📆 近期动向
+### 📆 活动预告
 
-奇忽局近期的四個房間：美國眾神、Fablab、中國鄉村的賽博奇點
+奇忽局近期的四個房間：美國眾神 1&2、Fablab、中國鄉村的賽博奇點
 
-#### 【奇忽局9】《美國眾神 vs 中國眾仙》1
+**【奇忽局9】《美國眾神 vs 中國眾仙》1**
 
 【時間】2021年3月17日，週三
 
@@ -30,9 +26,13 @@
 - 腦機結合、促智藥與永生，超人主義的未來與悖論
 - 倪湛舸：《革命+戀愛，再+機甲和喪屍》、《從武俠到修仙—中國玄幻文學百年沈浮》
 
-協同編輯：[【点击查看】](https://mm.tt/1819630352?t=DkYNWtz7J1)
+【協同編輯】
 
-#### 【奇忽局10】「平台合作社」解放平台打工人和快遞小哥？「🎤 錄音房」
+<iframe width="600" height="400" frameborder="0" src="https://www.mindmeister.com/maps/public_map_shell/1819630352/9-vs-1?width=600&height=400&z=auto&t=DkYNWtz7J1&live_update=1&no_share=1&no_logo=1" scrolling="no" style="overflow: hidden; margin-bottom: 5px;">Your browser is not able to display frames. Please visit <a href="https://www.mindmeister.com/1819630352/9-vs-1?t=DkYNWtz7J1" target="_blank">奇忽局9：美國眾神 vs 中國眾仙 1</a> on MindMeister.</iframe>
+
+[【点击查看】](https://mm.tt/1819630352?t=DkYNWtz7J1)
+
+**【奇忽局10】「平台合作社」解放平台打工人和快遞小哥？「🎤 錄音房」**
 
 【時間】2021年3月19日，週五
 
@@ -46,7 +46,7 @@
 - 什麼是「平台合作社」？
 - 「平台合作社」是否可以革「共享平台」的命？
 
-#### 【奇忽局之「賽博鄉村」2】談談Fab lab在中國，創客運動與鄉村振興，一村一個Fab lab不是夢？「🎤 錄音房」
+**【奇忽局之「賽博鄉村」2】談談Fab lab在中國，創客運動與鄉村振興，一村一個Fab lab不是夢？「🎤 錄音房」**
 
 【時間】2021年3月21日，周日
 
@@ -62,7 +62,7 @@
 - 鄉村振興、中國鄉村的賽博奇點
 - 一村一fab lab，還是一縣一fab lab?
 
-#### 【奇忽局11】《美國眾神 vs 中國眾仙》2
+**【奇忽局11】《美國眾神 vs 中國眾仙》2**
 
 【時間】
 
@@ -86,9 +86,11 @@
 
 奇忽局討論成果以協同編輯腦圖形式呈現
 
+<iframe width="100%" height="400" frameborder="0" src="https://www.mindmeister.com/maps/public_map_shell/1810914669/_?width=600&height=400&z=auto&t=TrUf2529Yp&no_share=1&no_logo=1" scrolling="no" style="overflow: hidden; margin-bottom: 5px;">Your browser is not able to display frames. Please visit <a href="https://www.mindmeister.com/1810914669/_?t=TrUf2529Yp" target="_blank">奇忽局：话题仓库</a> on MindMeister.</iframe>
+
 话题仓库：[【点击查看】](docs/qihuju00.md)
 
-### 🎤 錄音房聲明
+### 🎤 錄音聲明
 
 1. 奇忽局會有部分錄音房，對討論內容進行錄音，錄音房會在標題上標示。
 2. 介意講話內容被錄音的speaker請向我們說明，或者您也可以選擇不成為錄音房的speaker。
@@ -107,3 +109,4 @@
 + [奇忽局5：聊聊區塊鏈、NFT、創客、設計師和藝術家的跨界合作，以及實踐中所面臨的法律問題](docs/qihuju05.md)
 
 + [奇忽局4：尋找草薙素子：賽博格的自我與聯網的城市——虛擬身體的多重想象和建構](docs/qihuju04.md)
+
