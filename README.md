@@ -27,6 +27,12 @@
 - 什麼是「平台合作社」？
 - 「平台合作社」是否可以革「共享平台」的命？
 
+【脑图】
+
+<iframe width="100%" height="400" frameborder="0" src="https://www.mindmeister.com/maps/public_map_shell/1824180753/10?width=600&height=400&z=auto&t=JDSmh64Czn&no_share=1&no_logo=1" scrolling="no" style="overflow: hidden; margin-bottom: 5px;">Your browser is not able to display frames. Please visit <a href="https://www.mindmeister.com/1824180753/10?t=JDSmh64Czn" target="_blank">奇忽局10：「平台合作社」解放平台打工人和快遞小哥？「🎤錄音房」</a> on MindMeister.</iframe>
+
+[协作编辑](https://mm.tt/1824180753?t=JDSmh64Czn)
+
 **【奇忽局之「賽博鄉村」2】談談Fab lab在中國，創客運動與鄉村振興，一村一個Fab lab不是夢？「🎤 錄音房」**
 
 【時間】2021年3月21日，周日
@@ -43,6 +49,12 @@
 - 鄉村振興、中國鄉村的賽博奇點
 - 一村一fab lab，還是一縣一fab lab?
 
+【脑图】
+
+<iframe width="100%" height="400" frameborder="0" src="https://www.mindmeister.com/maps/public_map_shell/1824185733/2-fab-lab-fab-lab?width=600&height=400&z=auto&t=MAIrumhYlZ&no_share=1&no_logo=1" scrolling="no" style="overflow: hidden; margin-bottom: 5px;">Your browser is not able to display frames. Please visit <a href="https://www.mindmeister.com/1824185733/2-fab-lab-fab-lab?t=MAIrumhYlZ" target="_blank">奇忽局之「賽博鄉村」2：談談Fab lab在中國，創客運動與鄉村振興，一村一個Fab lab不是夢？「🎤錄音房」</a> on MindMeister.</iframe>
+
+[协作编辑](https://mm.tt/1824185733?t=MAIrumhYlZ)
+
 **【奇忽局11】《美國眾神 vs 中國眾仙》2**
 
 【時間】
@@ -53,6 +65,24 @@
 - 2021年3月27日，週六
 - 美東時間：8pm-10pm
 - 美西時間：5pm-7pm
+
+【話題】
+
+- 《美國眾神》（小說、美劇、NFT作品）
+- 《九步成仙》，庫茲韋爾
+- 《中國神怪大辭典》
+- 腦機結合、促智藥與永生，超人主義的未來與悖論
+- 《編程之道》&《C語言修仙》
+- 圖靈教會、科學真理教、WRSP、新紀元運動
+- 《全球概覽》、《高堡奇人》、尼爾·蓋曼、菲利普·迪克
+- 錢學森的「人體科學」
+- 倪湛舸：《革命+戀愛，再+機甲和喪屍》、《從武俠到修仙—中國玄幻文學百年沈浮》
+
+【脑图】
+
+<iframe width="600" height="400" frameborder="0" src="https://www.mindmeister.com/maps/public_map_shell/1824188741/11-vs-2?width=600&height=400&z=auto&t=NbTReFpKr4&no_share=1&no_logo=1" scrolling="no" style="overflow: hidden; margin-bottom: 5px;">Your browser is not able to display frames. Please visit <a href="https://www.mindmeister.com/1824188741/11-vs-2?t=NbTReFpKr4" target="_blank">奇忽局11：《美國眾神 vs 中國眾仙》2</a> on MindMeister.</iframe>
+
+[协作编辑](https://mm.tt/1824188741?t=NbTReFpKr4)
 
 ### 📓 联系方式
 
