@@ -31,7 +31,7 @@
 
 <iframe width="100%" height="400" frameborder="0" src="https://www.mindmeister.com/maps/public_map_shell/1824180753/10?width=600&height=400&z=auto&t=JDSmh64Czn&no_share=1&no_logo=1" scrolling="no" style="overflow: hidden; margin-bottom: 5px;">Your browser is not able to display frames. Please visit <a href="https://www.mindmeister.com/1824180753/10?t=JDSmh64Czn" target="_blank">奇忽局10：「平台合作社」解放平台打工人和快遞小哥？「🎤錄音房」</a> on MindMeister.</iframe>
 
-[协作编辑](https://mm.tt/1824180753?t=JDSmh64Czn)
+协作编辑：[点击编辑](https://mm.tt/1824180753?t=JDSmh64Czn)
 
 **【奇忽局之「賽博鄉村」2】談談Fab lab在中國，創客運動與鄉村振興，一村一個Fab lab不是夢？「🎤 錄音房」**
 
@@ -53,7 +53,7 @@
 
 <iframe width="100%" height="400" frameborder="0" src="https://www.mindmeister.com/maps/public_map_shell/1824185733/2-fab-lab-fab-lab?width=600&height=400&z=auto&t=MAIrumhYlZ&no_share=1&no_logo=1" scrolling="no" style="overflow: hidden; margin-bottom: 5px;">Your browser is not able to display frames. Please visit <a href="https://www.mindmeister.com/1824185733/2-fab-lab-fab-lab?t=MAIrumhYlZ" target="_blank">奇忽局之「賽博鄉村」2：談談Fab lab在中國，創客運動與鄉村振興，一村一個Fab lab不是夢？「🎤錄音房」</a> on MindMeister.</iframe>
 
-[协作编辑](https://mm.tt/1824185733?t=MAIrumhYlZ)
+协作编辑：[点击编辑](https://mm.tt/1824185733?t=MAIrumhYlZ)
 
 **【奇忽局11】《美國眾神 vs 中國眾仙》2**
 
@@ -82,7 +82,7 @@
 
 <iframe width="600" height="400" frameborder="0" src="https://www.mindmeister.com/maps/public_map_shell/1824188741/11-vs-2?width=600&height=400&z=auto&t=NbTReFpKr4&no_share=1&no_logo=1" scrolling="no" style="overflow: hidden; margin-bottom: 5px;">Your browser is not able to display frames. Please visit <a href="https://www.mindmeister.com/1824188741/11-vs-2?t=NbTReFpKr4" target="_blank">奇忽局11：《美國眾神 vs 中國眾仙》2</a> on MindMeister.</iframe>
 
-[协作编辑](https://mm.tt/1824188741?t=NbTReFpKr4)
+协作编辑：[点击编辑](https://mm.tt/1824188741?t=NbTReFpKr4)
 
 ### 📓 联系方式
 
