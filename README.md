@@ -80,7 +80,7 @@
 
 【脑图】
 
-<iframe width="600" height="400" frameborder="0" src="https://www.mindmeister.com/maps/public_map_shell/1824188741/11-vs-2?width=600&height=400&z=auto&t=NbTReFpKr4&no_share=1&no_logo=1" scrolling="no" style="overflow: hidden; margin-bottom: 5px;">Your browser is not able to display frames. Please visit <a href="https://www.mindmeister.com/1824188741/11-vs-2?t=NbTReFpKr4" target="_blank">奇忽局11：《美國眾神 vs 中國眾仙》2</a> on MindMeister.</iframe>
+<iframe width="100%" height="400" frameborder="0" src="https://www.mindmeister.com/maps/public_map_shell/1824188741/11-vs-2?width=600&height=400&z=auto&t=NbTReFpKr4&no_share=1&no_logo=1" scrolling="no" style="overflow: hidden; margin-bottom: 5px;">Your browser is not able to display frames. Please visit <a href="https://www.mindmeister.com/1824188741/11-vs-2?t=NbTReFpKr4" target="_blank">奇忽局11：《美國眾神 vs 中國眾仙》2</a> on MindMeister.</iframe>
 
 协作编辑：[点击编辑](https://mm.tt/1824188741?t=NbTReFpKr4)
 
