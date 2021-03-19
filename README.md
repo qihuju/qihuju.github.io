@@ -13,28 +13,6 @@
 
 ### 📆 活动预告
 
-奇忽局近期的三個房間：美國眾神 2、Fablab、中國鄉村的賽博奇點
-
-**【奇忽局10】「平台合作社」解放平台打工人和快遞小哥？「🎤 錄音房」**
-
-【時間】2021年3月19日，週五
-
-- 北京時間：9pm-11pm
-- 倫敦時間：1pm-2pm
-- 美東時間：9am-11am
-- 美西時間：6am-8am
-
-【話題】
-
-- 什麼是「平台合作社」？
-- 「平台合作社」是否可以革「共享平台」的命？
-
-【脑图】
-
-<iframe width="100%" height="400" frameborder="0" src="https://www.mindmeister.com/maps/public_map_shell/1824180753/10?width=600&height=400&z=auto&t=JDSmh64Czn&no_share=1&no_logo=1" scrolling="no" style="overflow: hidden; margin-bottom: 5px;">Your browser is not able to display frames. Please visit <a href="https://www.mindmeister.com/1824180753/10?t=JDSmh64Czn" target="_blank">奇忽局10：「平台合作社」解放平台打工人和快遞小哥？「🎤錄音房」</a> on MindMeister.</iframe>
-
-协作编辑：[点击编辑](https://mm.tt/1824180753?t=JDSmh64Czn)
-
 **【奇忽局之「賽博鄉村」2】談談Fab lab在中國，創客運動與鄉村振興，一村一個Fab lab不是夢？「🎤 錄音房」**
 
 【時間】2021年3月21日，周日
@@ -136,6 +114,8 @@
 
 ### 📝 往期记录
 
++ [奇忽局10：奇忽局10：「平台合作社」解放平台打工人和快遞小哥？「🎤錄音房」](docs/qihuju10.md)
+
 + [奇忽局9：美國眾神 vs 中國眾仙 1](docs/qihuju09.md)
 
 + [奇忽局8：山寨：深圳寨都變成世界創新中心的第一桶金](docs/qihuju08.md)
@@ -160,7 +140,7 @@
 
 ### 🎉 贡献列表
 
-- 奇忽局由 @岳路平 发起
+- 奇忽局由 @岳路平 @李大维 发起
 - 奇忽局Logo由 @周宇 绘制
 - 奇忽局脑图由 @Tz 整理
 - 奇忽局网站由 @柏舟 @Mingxuan @zk @阿呆 🦁  @In_K @Race 贡献了协作、测试、创意、建议
