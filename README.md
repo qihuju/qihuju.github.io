@@ -14,28 +14,6 @@
 
 ### 📆 活动预告
 
-**【奇忽局之「賽博鄉村」2】談談Fab lab在中國，創客運動與鄉村振興，一村一個Fab lab不是夢？「🎤 錄音房」**
-
-【時間】2021年3月21日，周日
-
-- 北京時間：9pm-11pm
-- 倫敦時間：1pm-2pm
-- 美東時間：9am-11am
-- 美西時間：6am-8am
-
-【話題】
-
-- Fab lab在中國，創客運動在中國
-- Fab lab、Fab city、Fab village是什麼？
-- 鄉村振興、中國鄉村的賽博奇點
-- 一村一fab lab，還是一縣一fab lab?
-
-【脑图】
-
-<iframe width="100%" height="400" frameborder="0" src="https://www.mindmeister.com/maps/public_map_shell/1824185733/2-fab-lab-fab-lab?width=600&height=400&z=auto&t=MAIrumhYlZ&no_share=1&no_logo=1" scrolling="no" style="overflow: hidden; margin-bottom: 5px;">Your browser is not able to display frames. Please visit <a href="https://www.mindmeister.com/1824185733/2-fab-lab-fab-lab?t=MAIrumhYlZ" target="_blank">奇忽局之「賽博鄉村」2：談談Fab lab在中國，創客運動與鄉村振興，一村一個Fab lab不是夢？「🎤錄音房」</a> on MindMeister.</iframe>
-
-协作编辑：[点击编辑](https://mm.tt/1824185733?t=MAIrumhYlZ)
-
 **【奇忽局特典】：跟陈楸帆聊聊《AI2041》「中英双语，🎤录音房」**
 
 【时间】
@@ -114,6 +92,8 @@
 5. 原則上所有的記錄只發表在非商業用途，如果發生少量具有商業回報的發表行為，會跟相關speaker商议回報事宜。
 
 ### 📝 往期记录
+
++ [奇忽局之「賽博鄉村」2：談談Fab lab在中國，創客運動與鄉村振興，一村一個Fab lab不是夢？「🎤錄音房」](/qihuju.github.io/docs/qihuju11.md)
 
 + [奇忽局10：奇忽局10：「平台合作社」解放平台打工人和快遞小哥？「🎤錄音房」](docs/qihuju10.md)
 
