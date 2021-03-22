@@ -15,29 +15,6 @@
 
 ### 📆 活动预告
 
-**【奇忽局特典】：跟陈楸帆聊聊《AI2041》「中英双语，🎤录音房」**
-
-【时间】
-
-+ 2021年3月22日，周一
-  + 北京时间：8pm-10pm
-  + 伦敦时间：12pm-2pm
-+ 2021年3月21日，周日
-  + 美东时间：8am-10am
-  + 美西时间：5am-7am
- 
-【话题】
-
-- 陈楸帆与李开复博士合著的《AI2041》美国版已开放预售，以最坚实前沿的技术分析，融合多元视角下的未来叙事，展望一个人机共生的2041年
-- 中文版也在紧锣密鼓制作中
-- 我们跟陈楸帆一起聊聊《AI2041》
-
-【脑图】
-
-<iframe width="100%" height="400" frameborder="0" src="https://www.mindmeister.com/maps/public_map_shell/1824499176/ai2041?width=600&height=400&z=auto&t=YyGZ8JnJLB&no_share=1&no_logo=1" scrolling="no" style="overflow: hidden; margin-bottom: 5px;">Your browser is not able to display frames. Please visit <a href="https://www.mindmeister.com/1824499176/ai2041?t=YyGZ8JnJLB" target="_blank">奇忽局特典：跟陈楸帆聊聊《AI2041》「中英双语，🎤录音房」</a> on MindMeister.</iframe>
-
-协作编辑：[点击编辑](https://mm.tt/1824499176?t=YyGZ8JnJLB)
-
 **【奇忽局11】《美國眾神 vs 中國眾仙》2**
 
 【時間】
@@ -97,6 +74,8 @@
 奇忽局艺术作品：[【点击查看】](docs/qihuju-artefact.md)
 
 ### 📝 往期记录
+
++ [奇忽局11：跟陈楸帆聊聊AI2041｜Let's Talk about AI2041 with Chen Qiufan｜🎤录音房](docs/qihuju11-ai2041.md)
 
 + [奇忽局之「賽博鄉村」2：談談Fab lab在中國，創客運動與鄉村振興，一村一個Fab lab不是夢？「🎤錄音房」](docs/qihuju11.md)
 
