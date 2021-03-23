@@ -106,7 +106,7 @@
 ### 🎉 贡献列表
 
 - 奇忽局由 @岳路平 @李大维 发起
-- 奇忽局Club由 @Miki Dai 协助运营
+- 奇忽局Club由 @Miki Dai 协助维护
 - 奇忽局Logo由 @周宇 绘制 由 @黄嘉欣 Chlor Huang 进行二次创作
 - 奇忽局脑图由 @Tz 整理
 - 奇忽局网站由 @柏舟 @Mingxuan @zk @阿呆 🦁  @In_K @Race 贡献了协作、测试、创意、建议
