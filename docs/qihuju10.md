@@ -4,4 +4,4 @@
 
 協同編輯：[点击进入](https://mm.tt/1824180753?t=JDSmh64Czn) | 瀏覽分享：[点击进入](https://www.mindmeister.com/1824180753/10)
 
-语音记录：[wiki页面](https://github.com/qihuju/qihuju.github.io/wiki/%E5%A5%87%E5%BF%BD%E5%B1%8010%EF%BC%9A%E2%80%9C%E5%B9%B3%E5%8F%B0%E5%90%88%E4%BD%9C%E7%A4%BE%E2%80%9D%E8%A7%A3%E6%94%BE%E5%B9%B3%E5%8F%B0%E6%89%93%E5%B7%A5%E4%BA%BA%E5%92%8C%E5%BF%AB%E9%80%92%E5%B0%8F%E5%93%A5%EF%BC%9F-%E5%BD%95%E9%9F%B3%E6%96%87%E6%9C%AC) | [原始文档下载](/qihuju.github.io/docs/qihuju10-records.docx)
+语音记录：[wiki页面](https://github.com/qihuju/qihuju.github.io/wiki/%E5%A5%87%E5%BF%BD%E5%B1%8010%EF%BC%9A%E2%80%9C%E5%B9%B3%E5%8F%B0%E5%90%88%E4%BD%9C%E7%A4%BE%E2%80%9D%E8%A7%A3%E6%94%BE%E5%B9%B3%E5%8F%B0%E6%89%93%E5%B7%A5%E4%BA%BA%E5%92%8C%E5%BF%AB%E9%80%92%E5%B0%8F%E5%93%A5%EF%BC%9F-%E5%BD%95%E9%9F%B3%E6%96%87%E6%9C%AC) | [原始文档下载](../docs/qihuju10-records.docx)
