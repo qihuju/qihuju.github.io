@@ -15,42 +15,7 @@
 
 ### 📆 活动预告
 
-**【奇忽局12】《美国众神 vs 中国众仙》2「🎤录音房」**
- 
-【时间】
 
-- 2021年3月28日，周日
-  - 北京时间：8am-10am
-  - 伦敦时间：0am-2am
- 
-- 2021年3月27日，周六
-  - 美东时间：8pm-10pm
-  - 美西时间：5pm-7pm
- 
-【流程】
-
-第一部分：科幻与玄幻，科学与迷信（20分钟）
-形式：岳路平采访陈楸帆，倪湛舸
- 
-第二部分：倪湛舸的三个问题（20分钟）
-形式：倪湛舸分享
-内容：
-1. 神话（连带着宗教）的现代构建；
-2. 小说《美国众神》背后的十八、十九、二十世纪美国神话构建；
-3. 小说《佛本是道》和《修真四万年》背后的中国神话学和中国宗教现代化进程
- 
-第三部分：提问环节（陈楸帆老师可能无法参与这个环节，提问环节将主要向倪湛舸老师提问）
-倪老师也只能在房间里停留一个多小时，所以：
-提问时间不要超过一分钟
-分享观点时间不要超过三分钟
- 
-第四部分：自由讨论
- 
-【脑图】
-
-<iframe width="100%" height="400" frameborder="0" src="https://www.mindmeister.com/maps/public_map_shell/1824188741/11-vs-2?width=600&height=400&z=auto&t=NbTReFpKr4&no_share=1&no_logo=1" scrolling="no" style="overflow: hidden; margin-bottom: 5px;">Your browser is not able to display frames. Please visit <a href="https://www.mindmeister.com/1824188741/11-vs-2?t=NbTReFpKr4" target="_blank">奇忽局11：《美國眾神 vs 中國眾仙》2</a> on MindMeister.</iframe>
-
-协作编辑：[点击编辑](https://mm.tt/1824188741?t=NbTReFpKr4)
 
 ### 📓 联系方式
 
