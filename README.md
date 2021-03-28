@@ -83,6 +83,8 @@
 
 ### 📝 往期记录
 
++ [奇忽局12：《美國眾神 vs 中國眾仙》2「🎤錄音房」](docs/qihuju12.md)
+
 + [奇忽局11：跟陈楸帆聊聊AI2041｜Let's Talk about AI2041 with Chen Qiufan｜🎤录音房](docs/qihuju11-ai2041.md)
 
 + [奇忽局之「賽博鄉村」2：談談Fab lab在中國，創客運動與鄉村振興，一村一個Fab lab不是夢？「🎤錄音房」](docs/qihuju11.md)
