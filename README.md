@@ -89,7 +89,8 @@
 
 ### 🔗 友情链接
 
-【待补充】
+- [岳路平 - 游人杀](docs/qihuju-links/yueluping.md)
+- [周宇 - 作品集](docs/qihuju-links/zhouyu.md)
 
 ### © CC-BY-4.0
 
