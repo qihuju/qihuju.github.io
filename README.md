@@ -102,7 +102,6 @@
 
 - [岳路平 - 流人杀](docs/qihuju-links/yueluping.md)
 - [周宇 - 作品集](docs/qihuju-links/zhouyu.md)
-- [阿呆 - 宝藏](docs/qihuju-links/adai.md)
 
 ### © CC-BY-4.0
 
