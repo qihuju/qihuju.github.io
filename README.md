@@ -26,9 +26,16 @@
 
 【話題】
 
-谈完两期的《美国众神vs中国众仙》，再谈谈神与仙的错位/错配，还能把 @Mingxuan 提到的《了不起的修仙模拟器》这个话题延展开，剖析一下文化传播与反向文化传播这个很有意思的话题领域。
-相关作品：《神的99亿个名字》、《魔道祖师》、《鬼谷八荒》、《太吾绘卷》、《了不起的修仙模拟器》
-相关话题：修仙、耽美、男频vs女频
+- 谈完两期的《美国众神vs中国众仙》，让我们再谈谈神与仙的错位/错配吧
+- 让我们通过《了不起的修仙模拟器》，剖析一下文化传播与反向文化传播
+- 相关作品：《神的99亿个名字》、《魔道祖师》、《鬼谷八荒》、《太吾绘卷》、《了不起的修仙模拟器》
+- 相关话题：修仙、耽美、男频vs女频
+
+【脑图】
+
+<iframe width="100%" height="400" frameborder="0" src="https://www.mindmeister.com/maps/public_map_shell/1841085212/vs-3-vs?width=600&height=400&z=auto&t=KgSteDR42g&no_share=1&no_logo=1" scrolling="no" style="overflow: hidden; margin-bottom: 5px;">Your browser is not able to display frames. Please visit <a href="https://www.mindmeister.com/1841085212/vs-3-vs?t=KgSteDR42g" target="_blank">奇忽局之「美国众神vs中国众仙」3：美国土地公 vs 中国耶和华</a> on MindMeister.</iframe>
+
+协同编辑：[点击编辑](https://mm.tt/1841085212?t=KgSteDR42g)
 
 ### 📓 联系方式
 
