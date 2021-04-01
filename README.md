@@ -15,27 +15,6 @@
 
 ### 📆 活动预告
 
-【愚人节房间预告】奇忽局之「美国众神vs中国众仙」3：美国土地公 vs 中国耶和华
-
-【時間】2021年4月1日愚人节，週四
-
-- 北京時間：8pm-10pm
-- 倫敦時間：1pm-3pm
-- 美東時間：8am-10am
-- 美西時間：5am-7am
-
-【話題】
-
-- 谈完两期的《美国众神vs中国众仙》，让我们再谈谈神与仙的错位/错配吧
-- 让我们通过《了不起的修仙模拟器》，剖析一下文化传播与反向文化传播
-- 相关作品：《神的99亿个名字》、《魔道祖师》、《鬼谷八荒》、《太吾绘卷》、《了不起的修仙模拟器》
-- 相关话题：修仙、耽美、男频vs女频
-
-【脑图】
-
-<iframe width="100%" height="400" frameborder="0" src="https://www.mindmeister.com/maps/public_map_shell/1841085212/vs-3-vs?width=600&height=400&z=auto&t=KgSteDR42g&no_share=1&no_logo=1" scrolling="no" style="overflow: hidden; margin-bottom: 5px;">Your browser is not able to display frames. Please visit <a href="https://www.mindmeister.com/1841085212/vs-3-vs?t=KgSteDR42g" target="_blank">奇忽局之「美国众神vs中国众仙」3：美国土地公 vs 中国耶和华</a> on MindMeister.</iframe>
-
-协同编辑：[点击编辑](https://mm.tt/1841085212?t=KgSteDR42g)
 
 ### 📓 联系方式
 
@@ -67,6 +46,8 @@
 奇忽局艺术作品：[【点击查看】](docs/qihuju-artefact.md)
 
 ### 📝 往期记录
+
++ [奇忽局之「美国众神vs中国众仙」3：美国土地公 vs 中国耶和华](docs/qihuju13-american-gods-3.md)
 
 + [奇忽局12：《美國眾神 vs 中國眾仙》2「🎤錄音房」](docs/qihuju12.md)
 
