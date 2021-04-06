@@ -18,42 +18,28 @@
 【奇忽局13】驰骋在比特荒野上的岛屿与河流——漫谈去中心化城市X车联网【🎤录音房】
 
 【時間】2021年4月9日，週五
-北京時間：8pm-10pm
-倫敦時間：1pm-3pm
-美東時間：8am-10am
-美西時間：5am-7am
+- 北京時間：8pm-10pm
+- 倫敦時間：1pm-3pm
+- 美東時間：8am-10am
+- 美西時間：5am-7am
 
 【話題】
 本期话题源于 @TS 【不确定性：河流】和【确定性：岛屿】的二元化比喻
 “这个岛屿河流的二元化比喻最早来自于我对未来城市的想象。英国建筑师在60年代时候提出过一个Walking City的构想，有点像是哈尔的移动城堡的放大版或者是流浪地球的缩小版……更有可能的未来也许会出现在自动驾驶技术达到L5之后。这意味着物联网，车联网的底层通讯架构都已经成熟。那么未来人类的栖息地就会由岛屿+河流交织起来……这里的河流包含了人流，物流，体验流和信用流……那么已经从【拥有】过渡到【调用】逻辑的车联网就编织了上述flow之间与虚拟世界和物理世界肌理……一个去中心化的walking city = walking room……这实际上跟人类游牧状态下的生活方式很类似”——@TS
 
 【流程】
-1，@TS 进行主题分享「30分钟」
+- 1，@TS 进行主题分享「30分钟」
 图文资料分享在奇忽局微信群
-2，@Mingxuan ✖️ @TS “从建筑电讯派、比特之城，到比特荒野的岛屿与河流”「20分钟」
-3，提问环节 
-4，自由讨论
-
-以下為建議名單，有空就來，沒空歡迎關注腦圖及群里的討論；）
-【moderators】
-@TS
-@李大維 
-@Mingxuan 
-@Tz  
-@Miki Dai 
-@Andy Liu 
-@HUI
-@In_K
-@阿呆 🦁 
-@楊梓萌 Brendan(醒著造夢） 
-@岳路平
+- 2，@Mingxuan ✖️ @TS “从建筑电讯派、比特之城，到比特荒野的岛屿与河流”「20分钟」
+- 3，提问环节 
+- 4，自由讨论
 
 协同编辑：https://mm.tt/1847893198?t=PvqSFYJAeR
 GitHub讨论：https://github.com/qihuju/qihuju.github.io/discussions/29
 
 我们是比特荒野上的殖民者，也是指路人；我们是赛博朋克原住民的血族，也是他们的导师；我们回溯往矣，我们拥抱当下，我们探索未来；我们是奇忽局。
-We are colonists in the Byte Wilderness, and guides; we are the blood of the Cyberpunk Natives, and mentors; we are looking after the past, we are embracing the present, we are exploring the future; we are the Singularity Fantasy Bureau.
-                                                     ——@Tz
+We are colonists in the Byte Wilderness, and guides; we are the blood of the Cyberpunk Natives, and mentors; we are looking after the past, we are embracing the present, we are exploring the future; we are the Singularity Fantasy Bureau.  ——@Tz
+                                             
 
 ### 📓 联系方式
 
