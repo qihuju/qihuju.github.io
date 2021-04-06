@@ -29,11 +29,13 @@
 
 【流程】
 - 1，@TS 进行主题分享「30分钟」
--图文资料分享在奇忽局微信群
+- 图文资料分享在奇忽局微信群
 - 2，@Mingxuan ✖️ @TS 
--“从建筑电讯派、比特之城，到比特荒野的岛屿与河流”「20分钟」
+- “从建筑电讯派、比特之城，到比特荒野的岛屿与河流”「20分钟」
 - 3，提问环节 
 - 4，自由讨论
+
+<iframe width="600" height="400" frameborder="0" src="https://www.mindmeister.com/maps/public_map_shell/1847893198/13-x?width=600&height=400&z=auto" scrolling="no" style="overflow: hidden; margin-bottom: 5px;">Your browser is not able to display frames. Please visit <a href="https://www.mindmeister.com/1847893198/13-x" target="_blank">【奇忽局13】驰骋在比特荒野上的岛屿与河流——漫谈去中心化城市X车联网【🎤录音房】</a> on MindMeister.</iframe><div class="mb-5"><a href="https://www.mindmeister.com/1847893198/13-x" target="_blank">【奇忽局13】驰骋在比特荒野上的岛屿与河流——漫谈去中心化城市X车联网【🎤录音房】</a> by <a href="https://www.mindmeister.com/users/channel/63288877" target="_blank">STEAM AGAIN岳路平《流人·返校日》</a></div>
 
 - 协同编辑：https://mm.tt/1847893198?t=PvqSFYJAeR
 - GitHub讨论：https://github.com/qihuju/qihuju.github.io/discussions/29
