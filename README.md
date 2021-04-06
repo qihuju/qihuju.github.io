@@ -35,10 +35,10 @@
 - 3，提问环节 
 - 4，自由讨论
 
-<iframe width="600" height="400" frameborder="0" src="https://www.mindmeister.com/maps/public_map_shell/1847893198/13-x?width=600&height=400&z=auto" scrolling="no" style="overflow: hidden; margin-bottom: 5px;">Your browser is not able to display frames. Please visit <a href="https://www.mindmeister.com/1847893198/13-x" target="_blank">【奇忽局13】驰骋在比特荒野上的岛屿与河流——漫谈去中心化城市X车联网【🎤录音房】</a> on MindMeister.</iframe><div class="mb-5"><a href="https://www.mindmeister.com/1847893198/13-x" target="_blank">【奇忽局13】驰骋在比特荒野上的岛屿与河流——漫谈去中心化城市X车联网【🎤录音房】</a> by <a href="https://www.mindmeister.com/users/channel/63288877" target="_blank">STEAM AGAIN岳路平《流人·返校日》</a></div>
+<iframe width="100%" height="400" frameborder="0" src="https://www.mindmeister.com/maps/public_map_shell/1847893198/13-x?width=600&height=400&z=auto" scrolling="no" style="overflow: hidden; margin-bottom: 5px;">Your browser is not able to display frames. Please visit <a href="https://www.mindmeister.com/1847893198/13-x" target="_blank">【奇忽局13】驰骋在比特荒野上的岛屿与河流——漫谈去中心化城市X车联网【🎤录音房】</a> on MindMeister.</iframe><div class="mb-5"><a href="https://www.mindmeister.com/1847893198/13-x" target="_blank">【奇忽局13】驰骋在比特荒野上的岛屿与河流——漫谈去中心化城市X车联网【🎤录音房】</a> by <a href="https://www.mindmeister.com/users/channel/63288877" target="_blank">STEAM AGAIN岳路平《流人·返校日》</a></div>
 
-- 协同编辑：https://mm.tt/1847893198?t=PvqSFYJAeR
-- GitHub讨论：https://github.com/qihuju/qihuju.github.io/discussions/29
+- 协同编辑：（https://mm.tt/1847893198?t=PvqSFYJAeR）
+- GitHub讨论：（https://github.com/qihuju/qihuju.github.io/discussions/29）
 
 我们是比特荒野上的殖民者，也是指路人；我们是赛博朋克原住民的血族，也是他们的导师；我们回溯往矣，我们拥抱当下，我们探索未来；我们是奇忽局。
 We are colonists in the Byte Wilderness, and guides; we are the blood of the Cyberpunk Natives, and mentors; we are looking after the past, we are embracing the present, we are exploring the future; we are the Singularity Fantasy Bureau.  ——@Tz
