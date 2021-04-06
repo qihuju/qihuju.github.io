@@ -1,3 +1,4 @@
+流人杀
 - [流人杀6](https://mp.weixin.qq.com/s/D9hezLYL41DfF2I-GcXGFg)
 - [艺术、设计思维与未来企业](https://mp.weixin.qq.com/s/I2ACQCjKYKzP9IUuwDHhbA)
 
@@ -10,5 +11,8 @@
 - [流人杀2](https://mp.weixin.qq.com/s/wNfxPFtdN7Yoiq15Ahia0Q)
 - [流人杀1](https://mp.weixin.qq.com/s/YbfaPl4uXY1ypWDidiRbnQ)
 
+岳路平的脑图个展
+
+链接
 - [STEAM AGAIN 岳路平《流人·返校日》](https://www.youtube.com/channel/UCQlmA0QuuMf4QhInoBA4u_w)
 - [岳路平知乎主页](https://www.zhihu.com/people/yue-lu-ping)
