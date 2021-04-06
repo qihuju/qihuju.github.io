@@ -13,7 +13,7 @@
 
 ### 岳路平的脑图个展
 
-<iframe width="600" height="400" frameborder="0" src="https://www.mindmeister.com/maps/public_map_shell/1847072980/loopcraft-minecraft?width=600&height=400&z=auto" scrolling="no" style="overflow: hidden; margin-bottom: 5px;">Your browser is not able to display frames. Please visit <a href="https://www.mindmeister.com/1847072980/loopcraft-minecraft" target="_blank">loopcraft@Minecraft</a> on MindMeister.</iframe><div class="mb-5"><a href="https://www.mindmeister.com/1847072980/loopcraft-minecraft" target="_blank">loopcraft@Minecraft</a> by <a href="https://www.mindmeister.com/users/channel/63288877" target="_blank">STEAM AGAIN岳路平《流人·返校日》</a></div>
+<iframe width="100%" height="400" frameborder="0" src="https://www.mindmeister.com/maps/public_map_shell/1847072980/loopcraft-minecraft?width=600&height=400&z=auto" scrolling="no" style="overflow: hidden; margin-bottom: 5px;">Your browser is not able to display frames. Please visit <a href="https://www.mindmeister.com/1847072980/loopcraft-minecraft" target="_blank">loopcraft@Minecraft</a> on MindMeister.</iframe><div class="mb-5"><a href="https://www.mindmeister.com/1847072980/loopcraft-minecraft" target="_blank">loopcraft@Minecraft</a> by <a href="https://www.mindmeister.com/users/channel/63288877" target="_blank">STEAM AGAIN岳路平《流人·返校日》</a></div>
 
 協同編輯：[点击进入](https://mm.tt/1847072980?t=3g96Alj2Nk) | 瀏覽分享：[点击进入](https://www.mindmeister.com/1847072980/loopcraft-minecraft)
 
