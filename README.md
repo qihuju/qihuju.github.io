@@ -34,8 +34,8 @@
 - 3，提问环节 
 - 4，自由讨论
 
-协同编辑：https://mm.tt/1847893198?t=PvqSFYJAeR
-GitHub讨论：https://github.com/qihuju/qihuju.github.io/discussions/29
+- 协同编辑：https://mm.tt/1847893198?t=PvqSFYJAeR
+- GitHub讨论：https://github.com/qihuju/qihuju.github.io/discussions/29
 
 我们是比特荒野上的殖民者，也是指路人；我们是赛博朋克原住民的血族，也是他们的导师；我们回溯往矣，我们拥抱当下，我们探索未来；我们是奇忽局。
 We are colonists in the Byte Wilderness, and guides; we are the blood of the Cyberpunk Natives, and mentors; we are looking after the past, we are embracing the present, we are exploring the future; we are the Singularity Fantasy Bureau.  ——@Tz
