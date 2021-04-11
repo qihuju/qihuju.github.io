@@ -9,6 +9,8 @@
 
 ### @黄嘉欣 Chlor Huang 作品
 
+#### 修格奇斯
+
 ![logo-art-1](../assets/img/artefact/logo-art-1-small.png)
 
 [原稿](../assets/img/artefact/logo-art-1.jpeg) | [PNG大图](../assets/img/artefact/logo-art-1.png) | [SVG矢量图](../assets/img/artefact/logo-art-1.svg)
