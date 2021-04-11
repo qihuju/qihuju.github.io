@@ -13,9 +13,12 @@
     - [🎉 贡献列表](#-贡献列表)
     - [🔗 友情链接](#-友情链接)
     - [© CC-BY-4.0](#-cc-by-40)
+
 ### 📆 活动预告
 
 ### 💡 奇忽宣言
+
+1.0 版本：
 
 我们是比特荒野上的殖民者，也是指路人；
 我们是赛博朋克原住民的血族，也是他们的导师；
@@ -29,7 +32,7 @@ We are the Singularity Fantasy Bureau.*
 
 —— @Tz
 
-**奇忽局宣言 共同协作版 1.0** [点击查看](https://github.com/qihuju/qihuju.github.io/projects)
+**奇忽局宣言 共同协作版 1.0** [【点击查看】](https://github.com/qihuju/qihuju.github.io/projects)
 
 ### 📓 联系方式
 
