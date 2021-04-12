@@ -22,6 +22,8 @@
 
 <iframe width="100%" height="400" frameborder="0" src="https://www.mindmeister.com/maps/public_map_shell/1855161141/loopcraft?width=600&height=400&z=auto&t=PJCtuKdsQz&presentation=1" scrolling="no" style="overflow: hidden; margin-bottom: 5px;">Your browser is not able to display frames. Please visit <a href="https://www.mindmeister.com/1855161141/loopcraft?t=PJCtuKdsQz" target="_blank">loopcraft@奇忽局</a> on MindMeister.</iframe><div class="mb-5"><a href="https://www.mindmeister.com/1855161141/loopcraft?t=PJCtuKdsQz" target="_blank">loopcraft@奇忽局</a> by <a href="https://www.mindmeister.com/users/channel/63288877" target="_blank">STEAM AGAIN岳路平《流人·返校日》</a></div>
 
+協同編輯：[点击进入](https://mm.tt/1855161141?t=PJCtuKdsQz) | 瀏覽分享：[点击进入](https://www.mindmeister.com/1855161141/loopcraft)
+
 
 ### 链接
 - [STEAM AGAIN 岳路平《流人·返校日》](https://www.youtube.com/channel/UCQlmA0QuuMf4QhInoBA4u_w)
