@@ -114,6 +114,7 @@ We are the Singularity Fantasy Bureau.*
 - [谢明炫 - 赛博桃花源](https://qihuju.wiki/peach.land/)
 - [岳路平 - 流人杀](docs/qihuju-links/yueluping.md)
 - [周宇 - 作品集](docs/qihuju-links/zhouyu.md)
+- [阿呆 - 宝藏](docs/qihuju-links/adai.md)
 
 ### © CC-BY-4.0
 
