@@ -1,9 +1,4 @@
 ![banner](assets/img/banner.png)
-
-# Ming炫 - 奇忽局赛博展厅入口
-
-[【**点击进入**】](https://hubs.mozilla.com/BQoP2M3)
-
 # 奇忽局索引
 
 - [奇忽局索引](#奇忽局索引)
@@ -153,7 +148,7 @@ We are the Singularity Fantasy Bureau.*
 
 ### 🔗 友情链接
 
-- [谢明炫 - 赛博桃花源](https://qihuju.wiki/peach.land/)
+- [谢明炫 - 赛博空间](docs/qihuju-links/mingxuanxie.md)
 - [岳路平 - 流人杀](docs/qihuju-links/yueluping.md)
 - [周宇 - 作品集](docs/qihuju-links/zhouyu.md)
 - [阿呆 - 宝藏](docs/qihuju-links/adai.md)
