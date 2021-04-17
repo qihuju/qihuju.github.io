@@ -1,5 +1,9 @@
 ![banner](assets/img/banner.png)
 
+# Ming炫 - 赛博展厅入口
+
+[点击这里](https://hubs.mozilla.com/BQoP2M3)
+
 # 奇忽局索引
 
 - [奇忽局索引](#奇忽局索引)
