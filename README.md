@@ -29,7 +29,7 @@
 - 石墨文档：https://shimo.im/docs/6GdXhtYK8xQhpGWJ
 - 协同编辑：https://mm.tt/1859927344?t=UN8pnLv9KP
 - CH房间地址：https://www.joinclubhouse.com/event/xLjo5nzy
-- GitHub讨论：#37
+- GitHub讨论：https://github.com/qihuju/qihuju.github.io/discussions/37
 
 「奇闻异事2：江西杨雅村科幻共创营将举行」
 
