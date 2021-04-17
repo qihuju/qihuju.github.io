@@ -102,6 +102,8 @@ We are the Singularity Fantasy Bureau.*
 
 ### 📝 往期记录
 
++ [奇忽局14：“游戏的人”与Metaverse中的艺术展： “向拉斯维加斯学习”的赛博“新巴比伦”【🎤录音房】 - 奇忽局Club](docs/qihuju14.md)
+
 + [奇忽局13：驰骋在比特荒野上的岛屿与河流——漫谈去中心化城市X车联网【🎤录音房】](docs/qihuju13.md)
 
 + [奇忽局之「美国众神vs中国众仙」3：美国土地公 vs 中国耶和华](docs/qihuju13-american-gods-3.md)
