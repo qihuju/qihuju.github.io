@@ -1,5 +1,6 @@
 ### 流人杀
-- [流人杀7]创客大爆炸·流人杀牌组@苇草智酷·数字化转型课程
+- [流人杀7](https://mp.weixin.qq.com/s/tmtLk-WVRs83quD_N_HH0g)
+- [创客大爆炸·流人杀牌组@苇草智酷·数字化转型课程](https://mp.weixin.qq.com/s/tmtLk-WVRs83quD_N_HH0g)
 
 <iframe width="100%" height="400" frameborder="0" src="https://www.mindmeister.com/maps/public_map_shell/1863943357/_?width=600&height=400&z=auto" scrolling="no" style="overflow: hidden; margin-bottom: 5px;">Your browser is not able to display frames. Please visit <a href="https://www.mindmeister.com/1863943357/_" target="_blank">创客大爆炸·流人杀牌组@苇草智酷·数字化转型</a> on MindMeister.</iframe><div class="mb-5"><a href="https://www.mindmeister.com/1863943357/_" target="_blank">创客大爆炸·流人杀牌组@苇草智酷·数字化转型</a> by <a href="https://www.mindmeister.com/users/channel/63288877" target="_blank">STEAM AGAIN岳路平《流人·返校日》</a></div>
 
