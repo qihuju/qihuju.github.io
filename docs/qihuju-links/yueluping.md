@@ -32,6 +32,11 @@
 協同編輯：[点击进入](https://mm.tt/1855161141?t=PJCtuKdsQz) | 瀏覽分享：[点击进入](https://www.mindmeister.com/1855161141/loopcraft)
 
 
+### 奇年祭数码物农庄测试
+
+<iframe src="https://hubs.mozilla.com/HSLeWby?embed_token=ab36557d3e83d5b46ce7a53f8d64ed12" style="width: 1024px; height: 768px;" allow="microphone; camera; vr; speaker;"></iframe>
+
+
 ### 链接
 - [STEAM AGAIN 岳路平《流人·返校日》](https://www.youtube.com/channel/UCQlmA0QuuMf4QhInoBA4u_w)
 - [岳路平知乎主页](https://www.zhihu.com/people/yue-lu-ping)
