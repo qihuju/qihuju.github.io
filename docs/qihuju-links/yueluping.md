@@ -34,7 +34,7 @@
 
 ### 奇年祭数码物农庄测试
 
-<iframe src="https://hubs.mozilla.com/HSLeWby?embed_token=ab36557d3e83d5b46ce7a53f8d64ed12" style="width: 100%; height: 768px;" allow="microphone; camera; vr; speaker;"></iframe>
+<iframe src="https://hubs.mozilla.com/HSLeWby?embed_token=ab36557d3e83d5b46ce7a53f8d64ed12" style="width: 100%; height: 400px;" allow="microphone; camera; vr; speaker;"></iframe>
 
 
 ### 链接
