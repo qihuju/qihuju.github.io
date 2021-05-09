@@ -102,6 +102,8 @@ We are the Singularity Fantasy Bureau.*
 
 ### 📝 往期记录
 
++ [奇忽局之「賽博鄉村」3：杨雅狼人杀「🎤錄音房」](docs/qihuju15-cyber-country-3.md)
+
 + [奇忽局14：“游戏的人”与Metaverse中的艺术展： “向拉斯维加斯学习”的赛博“新巴比伦”【🎤录音房】](docs/qihuju14.md)
 
 + [奇忽局13：驰骋在比特荒野上的岛屿与河流——漫谈去中心化城市X车联网【🎤录音房】](docs/qihuju13.md)
