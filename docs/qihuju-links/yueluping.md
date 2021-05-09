@@ -1,4 +1,11 @@
 ### 流人杀
+- [流人杀7](https://mp.weixin.qq.com/s/tmtLk-WVRs83quD_N_HH0g)
+- [创客大爆炸·流人杀牌组@苇草智酷·数字化转型课程](https://mp.weixin.qq.com/s/tmtLk-WVRs83quD_N_HH0g)
+
+<iframe width="100%" height="400" frameborder="0" src="https://www.mindmeister.com/maps/public_map_shell/1863943357/_?width=600&height=400&z=auto" scrolling="no" style="overflow: hidden; margin-bottom: 5px;">Your browser is not able to display frames. Please visit <a href="https://www.mindmeister.com/1863943357/_" target="_blank">创客大爆炸·流人杀牌组@苇草智酷·数字化转型</a> on MindMeister.</iframe><div class="mb-5"><a href="https://www.mindmeister.com/1863943357/_" target="_blank">创客大爆炸·流人杀牌组@苇草智酷·数字化转型</a> by <a href="https://www.mindmeister.com/users/channel/63288877" target="_blank">STEAM AGAIN岳路平《流人·返校日》</a></div>
+
+協同編輯：[点击进入](https://mm.tt/1863943357?t=8JMiijoRU9) | 瀏覽分享：[点击进入](https://www.mindmeister.com/1863943357/_)
+
 - [流人杀6](https://mp.weixin.qq.com/s/D9hezLYL41DfF2I-GcXGFg)
 - [艺术、设计思维与未来企业](https://mp.weixin.qq.com/s/I2ACQCjKYKzP9IUuwDHhbA)
 
@@ -23,6 +30,11 @@
 <iframe width="100%" height="400" frameborder="0" src="https://www.mindmeister.com/maps/public_map_shell/1855161141/loopcraft?width=600&height=400&z=auto&t=PJCtuKdsQz&presentation=1" scrolling="no" style="overflow: hidden; margin-bottom: 5px;">Your browser is not able to display frames. Please visit <a href="https://www.mindmeister.com/1855161141/loopcraft?t=PJCtuKdsQz" target="_blank">loopcraft@奇忽局</a> on MindMeister.</iframe><div class="mb-5"><a href="https://www.mindmeister.com/1855161141/loopcraft?t=PJCtuKdsQz" target="_blank">loopcraft@奇忽局</a> by <a href="https://www.mindmeister.com/users/channel/63288877" target="_blank">STEAM AGAIN岳路平《流人·返校日》</a></div>
 
 協同編輯：[点击进入](https://mm.tt/1855161141?t=PJCtuKdsQz) | 瀏覽分享：[点击进入](https://www.mindmeister.com/1855161141/loopcraft)
+
+
+### 奇年祭数码物农庄测试
+
+<iframe src="https://hubs.mozilla.com/HSLeWby?embed_token=ab36557d3e83d5b46ce7a53f8d64ed12" style="width: 100%; height: 360px;" allow="microphone; camera; vr; speaker;"></iframe>
 
 
 ### 链接
